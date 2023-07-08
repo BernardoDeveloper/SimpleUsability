@@ -1,4 +1,4 @@
-import "./App.css";
+import "./index.css";
 
 import { Route } from "wouter-preact";
 
