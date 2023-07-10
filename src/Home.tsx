@@ -1,4 +1,7 @@
 import {css} from '../styled-system/css'
+import { test } from './Server.telefunc'
+
+const message = await test('Hello, Telefunc')
 
 export const Home = () => {
   return (
@@ -8,7 +11,7 @@ export const Home = () => {
         fontWeight: "bold",
         pt: "56px"
       })}>
-        Partial hydration with Preact and <i>Capri</i>
+        Data from telefunc <i>{ message }</i>
       </h1>
     </main>
   );
