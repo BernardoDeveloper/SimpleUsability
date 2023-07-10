@@ -2,7 +2,7 @@
 
 The idea is create an web app to works who earn by the hour.
 
-### Features
+## Features
 
 - [ ] Create card with task by task
 - [ ] Each task can set a value to earn by hour
@@ -13,8 +13,8 @@ The idea is create an web app to works who earn by the hour.
 
 ### Technologies
 
-+ [Preact](https://preactjs.com/)
-+ [CapriJS](https://capri.build/)
-+ [PandaCSS](https://panda-css.com/)
-+ [Prisma](https://www.prisma.io/)
-+ [Telefunc](https://telefunc.com/)
+- [Preact](https://preactjs.com/)
+- [CapriJS](https://capri.build/)
+- [PandaCSS](https://panda-css.com/)
+- [Prisma](https://www.prisma.io/)
+- [Telefunc](https://telefunc.com/)

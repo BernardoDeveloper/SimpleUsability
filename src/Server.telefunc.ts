@@ -1,4 +1,4 @@
-export const test = async (msg: String) => {
+export async function test(msg: String) {
     const message = 'Welcome ' + msg
     return message
 }
